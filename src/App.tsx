@@ -36,7 +36,11 @@ export class Slider extends Component< {}, AppState > {
         },
         date: "سه شنبه ۶ فروردین‌ماه ۱۳۹۸",
         link: "https://dantoo.org/post/1058/%D8%AA%D9%86%D9%81%D8%B1-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%D9%87%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%D9%87-%DB%8C-%D8%A7%DB%8C%D9%85%D9%88%D8%AC%DB%8C",
+<<<<<<< HEAD
         imgSrc: require ( ' /src/image/1.jpg' )
+=======
+        imgSrc: require ( './image/1.jpg' )
+>>>>>>> b535bd6 (revised commit)
       },
       {
         id : makeId(),
@@ -48,7 +52,11 @@ export class Slider extends Component< {}, AppState > {
         },
         date: "سه شنبه ۶ فروردین‌ماه ۱۳۹۸",
         link: "https://dantoo.org/post/1058/%D8%AA%D9%86%D9%81%D8%B1-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%D9%87%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%D9%87-%DB%8C-%D8%A7%DB%8C%D9%85%D9%88%D8%AC%DB%8C",
+<<<<<<< HEAD
         imgSrc: require ( " /src/image/2.jpeg" )
+=======
+        imgSrc: require ( "./image/2.jpeg" )
+>>>>>>> b535bd6 (revised commit)
       },
       {
         id : makeId(),
@@ -60,7 +68,11 @@ export class Slider extends Component< {}, AppState > {
         },
         date: "سه شنبه ۶ فروردین‌ماه ۱۳۹۸",
         link: "https://dantoo.org/post/1058/%D8%AA%D9%86%D9%81%D8%B1-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%D9%87%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%D9%87-%DB%8C-%D8%A7%DB%8C%D9%85%D9%88%D8%AC%DB%8C",
+<<<<<<< HEAD
         imgSrc: require( " /src/image/3.png" ) 
+=======
+        imgSrc: require( "./image/3.png" ) 
+>>>>>>> b535bd6 (revised commit)
       },
       {
         id : makeId(),
@@ -72,7 +84,11 @@ export class Slider extends Component< {}, AppState > {
         },
         date: "سه شنبه ۶ فروردین‌ماه ۱۳۹۸",
         link: "https://dantoo.org/post/1058/%D8%AA%D9%86%D9%81%D8%B1-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%D9%87%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%D9%87-%DB%8C-%D8%A7%DB%8C%D9%85%D9%88%D8%AC%DB%8C",
+<<<<<<< HEAD
         imgSrc: require( " /src/image/4.jpeg" )
+=======
+        imgSrc: require( "./image/4.jpeg" )
+>>>>>>> b535bd6 (revised commit)
       },
       {
         id : makeId(),
@@ -84,7 +100,11 @@ export class Slider extends Component< {}, AppState > {
         },
         date: "سه شنبه ۶ فروردین‌ماه ۱۳۹۸",
         link: "https://dantoo.org/post/1058/%D8%AA%D9%86%D9%81%D8%B1-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%D9%87%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%D9%87-%DB%8C-%D8%A7%DB%8C%D9%85%D9%88%D8%AC%DB%8C",
+<<<<<<< HEAD
         imgSrc: require( " /src/image/5.jpg" )
+=======
+        imgSrc: require( "./image/5.jpg" )
+>>>>>>> b535bd6 (revised commit)
       },
     ],
     activeSlide: 0

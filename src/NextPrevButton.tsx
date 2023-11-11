@@ -47,7 +47,11 @@ export interface ButtonProps {
 export const NextButton: FC< ButtonProps > = ({
     className, onClick
 }) => <NextBtn onClick={ onClick } className={ className }>
+<<<<<<< HEAD
     <img src={ require("/src/svg/left-arrow.svg") } alt=''></img>
+=======
+    <img src={ require("./svg/left-arrow.svg") } alt=''></img>
+>>>>>>> b535bd6 (revised commit)
 </NextBtn>
 
 const PrevBtn = styled(NextBtn)`
@@ -58,5 +62,9 @@ const PrevBtn = styled(NextBtn)`
 export const PrevButton: FC< ButtonProps > = ({
     className, onClick
 }) => <PrevBtn onClick={ onClick } className={ className }>
+<<<<<<< HEAD
     <img src={ require("/src/svg/right-arrow.svg") } alt=''> </img>
+=======
+    <img src={ require("./svg/right-arrow.svg") } alt=''></img>
+>>>>>>> b535bd6 (revised commit)
 </PrevBtn>

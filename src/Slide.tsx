@@ -147,6 +147,10 @@ export const Slide: FC< Slide > = ({
     </div>
     <img src={ imgSrc } />
     <a className="play-overlay" href={ link }>
+<<<<<<< HEAD
         <img className="play-icon" src= { require(" /src/svg/play.svg") } />
+=======
+        <img className="play-icon" src= { require("./svg/play.svg") } />
+>>>>>>> b535bd6 (revised commit)
     </a>
 </Wrapper>
